@@ -1,0 +1,4 @@
+com/insurance/claim/common/domain/valueobjects/Currency.class
+com/insurance/claim/common/domain/model/AggregateRoot.class
+com/insurance/claim/common/domain/model/DomainEvent.class
+com/insurance/claim/common/domain/model/Entity.class

@@ -1,0 +1,5 @@
+/Users/stuartwilliams/src/github.com/pidster/ddd-test-03/insurance-claim-system/common/domain/src/main/java/com/insurance/claim/common/domain/model/Entity.java
+/Users/stuartwilliams/src/github.com/pidster/ddd-test-03/insurance-claim-system/common/domain/src/main/java/com/insurance/claim/common/domain/model/AggregateRoot.java
+/Users/stuartwilliams/src/github.com/pidster/ddd-test-03/insurance-claim-system/common/domain/src/main/java/com/insurance/claim/common/domain/valueobjects/Currency.java
+/Users/stuartwilliams/src/github.com/pidster/ddd-test-03/insurance-claim-system/common/domain/src/main/java/com/insurance/claim/common/domain/valueobjects/Money.java
+/Users/stuartwilliams/src/github.com/pidster/ddd-test-03/insurance-claim-system/common/domain/src/main/java/com/insurance/claim/common/domain/model/DomainEvent.java
